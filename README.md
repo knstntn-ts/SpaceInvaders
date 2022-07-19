@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 Classic game of Space Invaders
 
 Implemented using Turtle module in Python. Contains one ship and 18 invaders who are approaching the sihp. Purpose of the ship is to destroy the invaders before they reach it and destroy Earth!
